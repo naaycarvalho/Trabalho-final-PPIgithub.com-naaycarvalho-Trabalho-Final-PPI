@@ -1,0 +1,24 @@
+{
+  "name": "trabalho-final-ppi",
+  "version": "1.0.0",
+  "description": "Aplicação Web trabalho final",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naaycarvalho/Trabalho-Final-PPI.git"
+  },
+  "author": "Nnayara Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naaycarvalho/Trabalho-Final-PPI/issues"
+  },
+  "homepage": "https://github.com/naaycarvalho/Trabalho-Final-PPI#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-session": "^1.18.0"
+  }
+}
